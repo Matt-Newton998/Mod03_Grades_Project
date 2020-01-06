@@ -48,7 +48,7 @@ Teacher 2:	Ida Balderrama-Trudell
 
 
 Observations:
-
+Difficult as on two teacher were able to be selected. However if we wish to analysis a particular teacher we could. 
 
 
  ***
