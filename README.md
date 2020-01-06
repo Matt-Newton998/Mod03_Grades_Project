@@ -12,7 +12,9 @@ The objectives:
 3.	Which subject has a significant difference in the number of A’s earned when compared to other subjects.
 4.	Does the day of the week have a statistically significant correlation with the number of A's earned in a course?
 
+Brake Down by question:
 
+***
 
 1.	Do STEM fields have a statistically significant difference in the number of A's earned when compared to the humanities?
 
@@ -31,7 +33,9 @@ The power showed by the analysis equated to 1.0 which would suggest an error in 
 
 A Mann-Whitney U test was conducted as the analysis of skewness showed the non-normal nature of the distributions. The result still gave an extremely high statistic when compared to the critical statistic. Still confirming a significance.
 
- 
+***
+
+
 2.	Does your teacher have a statistically significant correlation with the number on A's earned in a course?
 
 Method:
@@ -47,7 +51,8 @@ Observations:
 
 
 
- 
+ ***
+
 3.	Which subject has a significant difference in the number of A’s earned when compared to other subjects.
 
 Method & Observations:
@@ -63,6 +68,7 @@ Therapeutic Science (Department of Kinesiology) & Interdisciplinary Courses (Eng
 
 Had statistically the most significance of achieving an A.
 
+***
 
 4.	Does the day of the week have a statistically significant correlation with the number of A's earned in a course?
 
@@ -91,6 +97,9 @@ Tues: 		13.764
 Wed: 		12.981
 Thurs:		14.114
 Fri:		12.247
+
+
+***
 
 Conclusions:
 
