@@ -1,6 +1,6 @@
 # Student Grades - Module 3 Project:
 
-Data Set:
+### Data Set:
 
 UW Madison Courses and Grades 2006-2017
 Courses, grades, instructors, and subjects at UW Madison since 2006
@@ -16,14 +16,14 @@ Brake Down by question:
 
 ***
 
-1.	Do STEM fields have a statistically significant difference in the number of A's earned when compared to the humanities?
+# 1.	Do STEM fields have a statistically significant difference in the number of A's earned when compared to the humanities?
 
-Method:
+<b>Method:</b>
 Extract STEM & Humanities subjects. Then conduct one sample t-test on each. Then a two sample t-test on both to compare.
 
 Random Sample are taken as to convert distributions to Normal, using CLT.
 
-Observations:
+<b>Observations:</b>
 
 Both STEM & Humanities had significantly more A’s than the sample population. As the P-values were extremely small.
 
@@ -36,9 +36,9 @@ A Mann-Whitney U test was conducted as the analysis of skewness showed the non-n
 ***
 
 
-2.	Does your teacher have a statistically significant correlation with the number on A's earned in a course?
+# 2.	Does your teacher have a statistically significant correlation with the number on A's earned in a course?
 
-Method:
+<b>Method:</b>
 When observing the number of teachers there were over 18,000 teachers (instructors) in the data set. Therefore, 2 teachers were selected, of which one sample Z-test were conducted, due to the knowledge of the total population mean.
 
 Thena two sample welch t-test to compare both, due to the different sample sizes.
@@ -47,15 +47,15 @@ Teacher 1: 	Donald Yandow
 Teacher 2:	Ida Balderrama-Trudell
 
 
-Observations:
+<b>Observations:</b>
 Difficult as on two teacher were able to be selected. However if we wish to analysis a particular teacher we could. 
 
 
  ***
 
-3.	Which subject has a significant difference in the number of A’s earned when compared to other subjects.
+# 3.	Which subject has a significant difference in the number of A’s earned when compared to other subjects.
 
-Method & Observations:
+<b>Method & Observations:</b>
 
 Initial we looked at the percentage A’s obtained for each subject over the total population.
 From this the highest two, both with 100% A’s: Ophthalmology and Visual Sciences & Molecular Biology. The lowest being Botany & Biology with 24.5% and 27.5% respectively.
@@ -70,9 +70,9 @@ Had statistically the most significance of achieving an A.
 
 ***
 
-4.	Does the day of the week have a statistically significant correlation with the number of A's earned in a course?
+# 4.	Does the day of the week have a statistically significant correlation with the number of A's earned in a course?
 
-Method:
+<b>Method:</b>
 The first objective was to work out the total number of A’s given for each day.
 
 Mon: 	401317
@@ -87,7 +87,7 @@ From this it was chosen to exclude Sat & Sun, as there are not enough data point
 
 A Tuckey’s HSD comparison was attempted. However, its failed due to lectures being held on multiple days. So could result in lectures being compared against themselves, which would skew the results towards no difference between the days.
 
-Observations:
+<b>Observations:</b>
 
 The one sample t-test showed that the there is a significant difference for all the day of the week. This is most likely due the large values pulling the mean of each of the days higher than the overall population. The skewness of all the population were highly positive.
 
@@ -101,7 +101,7 @@ Fri:		12.247
 
 ***
 
-Conclusions:
+## Conclusions:
 
 The main issue is that the populations of each class could not be normalised which emphasised the effect of the large outlier values that pull the statically mean, make the results significant. This is apparent especially when comparing between subjects.  The unknown number of students participating in each class is frustrating as we are unable to normalize the result. Nullify the majority of statistical tests.
 
