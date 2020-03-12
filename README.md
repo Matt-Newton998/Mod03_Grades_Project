@@ -51,7 +51,7 @@ Teacher 2:	Ida Balderrama-Trudell
 Difficult as on two teacher were able to be selected. However if we wish to analysis a particular teacher we could. 
 
 
- ***
+***
 
 ## 3.	Which subject has a significant difference in the number of A’s earned when compared to other subjects.
 
