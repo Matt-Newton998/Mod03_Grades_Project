@@ -16,7 +16,7 @@ Brake Down by question:
 
 ***
 
-# 1.	Do STEM fields have a statistically significant difference in the number of A's earned when compared to the humanities?
+## 1.	Do STEM fields have a statistically significant difference in the number of A's earned when compared to the humanities?
 
 <b>Method:</b>
 Extract STEM & Humanities subjects. Then conduct one sample t-test on each. Then a two sample t-test on both to compare.
@@ -36,7 +36,7 @@ A Mann-Whitney U test was conducted as the analysis of skewness showed the non-n
 ***
 
 
-# 2.	Does your teacher have a statistically significant correlation with the number on A's earned in a course?
+## 2.	Does your teacher have a statistically significant correlation with the number on A's earned in a course?
 
 <b>Method:</b>
 When observing the number of teachers there were over 18,000 teachers (instructors) in the data set. Therefore, 2 teachers were selected, of which one sample Z-test were conducted, due to the knowledge of the total population mean.
@@ -53,7 +53,7 @@ Difficult as on two teacher were able to be selected. However if we wish to anal
 
  ***
 
-# 3.	Which subject has a significant difference in the number of A’s earned when compared to other subjects.
+## 3.	Which subject has a significant difference in the number of A’s earned when compared to other subjects.
 
 <b>Method & Observations:</b>
 
@@ -70,7 +70,7 @@ Had statistically the most significance of achieving an A.
 
 ***
 
-# 4.	Does the day of the week have a statistically significant correlation with the number of A's earned in a course?
+## 4.	Does the day of the week have a statistically significant correlation with the number of A's earned in a course?
 
 <b>Method:</b>
 The first objective was to work out the total number of A’s given for each day.
